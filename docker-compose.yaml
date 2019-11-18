@@ -1,0 +1,13 @@
+postgres:
+  image: postgres
+  container_name: postgres
+  volumes:
+    - .:/opt
+  restart: always
+  working_dir: /opt
+  ports:
+    - "5432:5432"
+  environment:
+    POSTGRES_PASSWORD: test
+    POSTGRES_USER: test
+    POSTGRES_DB: test
