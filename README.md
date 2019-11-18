@@ -1,5 +1,5 @@
 # Business Data Analyst Test
-We've been tracking our e-vehicles for 15 days every 10 minutes and we would like you to let us know some insights from the data gathered:
+We've been tracking our e-vehicles for 15 days every 20 minutes and we would like you to let us know some insights from the data gathered:
 1. What's the battery average of the e-vehicles during the night?
 2. What's the battery average of the e-vehicles during the day?
 3. If e-vehicles must be picked-up to charge their battery when the level is lower than 40, what's the time range when most e-vehicles need to be recharged?
