@@ -13,7 +13,7 @@ In order to get a database up, running and populated with the info of the e-vehi
 
 `./run.sh`
 
-A PostgreSQL DB will be listening at the port `5432` in your `localhost` with:
+A PostgreSQL DB will be listening on port `5432` in your `localhost` with:
 - **user**: test
 - **password**: test
 - **database**: test
